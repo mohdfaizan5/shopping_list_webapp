@@ -18,4 +18,4 @@ This project was created to focus on working with the DOM, events, state, local 
 ### Bugs
 ❌ When delete something it gets deleted from DOM properly, but in the localStorage it does deletes the other element.
 
-Demo: https://stately-bienenstitch-82199a.netlify.app/
+Demo: https://brilliant-concha-514df9.netlify.app/
